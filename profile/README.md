@@ -30,7 +30,7 @@ the core. Currently in final hardening and audit passes ahead of dApp Store subm
 
 - **Escrowless OTC & NFT trading** — offers are made and signed off-chain, settlement lands on-chain only when accepted.
 - **Sovereign messaging** — end-to-end encrypted, built in.
-- **File Vault** — encrypted file storage, sealed at rest, on your own device.
+- **File Vault** — encrypted file storage, sealed at rest, on your own device, with encrypted file exports.
 - **Contacts that stay current** — cards update dynamically as the person behind them does.
 - **Name resolution** — works with your `.sol` domain or a native xete alias (`%name`).
 - **Explorer** — browse wallets, collections, and NFTs with real navigation, not a flat list.
