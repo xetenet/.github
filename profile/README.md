@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/banner.png" alt="xete — an identity you can't get banned from, messages no server can read, value no one can freeze" width="820">
+  <img src="profile/banner.svg" alt="xete — an identity you can't get banned from, messages no server can read, value no one can freeze" width="900">
 </div>
 
 <div align="center">
