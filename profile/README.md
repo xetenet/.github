@@ -25,9 +25,15 @@ here ever holds your funds or your keys.
 
 ### On Solana Mobile — heading to the dApp Store
 
-A non-custodial wallet built for Saga and Seeker: hardware-backed key custody (Seed Vault),
-escrowless OTC and NFT trading, and sovereign messaging, all in one app. Currently in final
-hardening and audit passes ahead of dApp Store submission.
+A non-custodial wallet built for Saga and Seeker, hardware-backed key custody (Seed Vault) at
+the core. Currently in final hardening and audit passes ahead of dApp Store submission.
+
+- **Escrowless OTC & NFT trading** — offers are made and signed off-chain, settlement lands on-chain only when accepted.
+- **Sovereign messaging** — end-to-end encrypted, built in.
+- **File Vault** — encrypted file storage, sealed at rest, on your own device.
+- **Contacts that stay current** — cards update dynamically as the person behind them does.
+- **Name resolution** — works with your `.sol` domain or a native xete alias (`%name`).
+- **Explorer** — browse wallets, collections, and NFTs with real navigation, not a flat list.
 
 ---
 
